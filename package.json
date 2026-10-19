@@ -9,5 +9,9 @@
   "dependencies": {
     "@red-cup-engineering/cryptographic-computer-data-engineering-services-section": "workspace:*",
     "@red-cup-engineering/json-services-section": "1.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/causeway-services/koios-runtime-deployment-provenance.git"
   }
 }
