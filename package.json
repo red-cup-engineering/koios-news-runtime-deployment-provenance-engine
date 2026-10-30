@@ -1,5 +1,5 @@
 {
-  "name": "@causeway-services/koios-runtime-deployment-provenance",
+  "name": "@red-cup-engineering/koios-news-runtime-deployment-provenance-engine",
   "version": "0.0.1",
   "type": "module",
   "scripts": {
@@ -12,7 +12,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/causeway-services/koios-runtime-deployment-provenance.git"
+    "url": "git+https://github.com/red-cup-engineering/koios-news-runtime-deployment-provenance-engine.git"
   },
   "license": "Apache-2.0",
   "funding": {
