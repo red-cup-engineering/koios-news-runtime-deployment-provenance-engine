@@ -2,7 +2,7 @@
 import { execFileSync } from "node:child_process";
 import { existsSync, lstatSync, mkdirSync, openSync, readFileSync, writeFileSync, closeSync } from "node:fs";
 import { dirname, isAbsolute, join, relative, resolve } from "node:path";
-import { canonicalJson as canonical } from "@red-cup-engineering/json-services-section/canonical-json";
+import { canonicalJson as canonical } from "@red-cup-engineering/json-engineering-services-section/canonical-json";
 import { sha256Digest, sha256Hex } from "@red-cup-engineering/cryptographic-computer-data-engineering-services-section/integrity";
 
 
