@@ -1,0 +1,21 @@
+{
+  "name": "@red-cup-engineering/koios-news-runtime-deployment-provenance-engine",
+  "version": "0.0.4-dev.0",
+  "type": "module",
+  "scripts": {
+    "check": "node --check bin/koios-runtime-provenance.mjs"
+  },
+  "dependencies": {
+    "@red-cup-engineering/cryptographic-computer-data-engineering-services-section": "^0.3.5",
+    "@red-cup-engineering/json-engine": "^0.5.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/causeway-services/koios-news-runtime-deployment-provenance-engine.git"
+  },
+  "license": "Apache-2.0",
+  "funding": {
+    "type": "individual",
+    "url": "https://github.com/561-group/.github/blob/main/TIPS.md"
+  }
+}
